@@ -251,4 +251,4 @@ console.log(`the ${school.subject} subject is taught by ${school.teacher}`);
 //ARRAYS
 let arr = [87, 93, 56, 78, 92];
 console.log(arr);
-let heroes = ["batman", "spiderman", "thor", "komal"];
+let heroes = ["batman", "spiderman", "thor", "komal", "git"];
